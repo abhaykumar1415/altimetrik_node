@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bf0e8c9d-e2a1-4182-ab1b-420d9d8acf36",
+    "username": "testuser",
+    "firstName": "Test1",
+    "lastName": "User3",
+    "password": "$2a$08$/v64Dm6FtrSic38C6Y39puoP16W/m1s83wBLQd/UlRkckrJwQh3DG",
+    "paymentMethod": "Credit Card",
+    "address": "testuser new address",
+    "profilePicture": "https://icons.veryicon.com/png/o/miscellaneous/user-avatar/user-avatar-male-5.png"
+  },
+  {
+    "id": "4724592c-cfef-4df0-94ca-e6410a07732d",
+    "username": "newuser",
+    "firstName": "New1",
+    "lastName": "User",
+    "password": "$2a$08$AWDLulT3soCS10pdfLOvAOlEQTJLOV7oxQqSizZhT37xbb4K0vQ6S",
+    "paymentMethod": "Credit Card",
+    "address": "1232 New St",
+    "profilePicture": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"
+  },
+  {
+    "id": "dcac2c02-de47-451a-a8ff-087f80dfd785",
+    "username": "Abhay1415",
+    "firstName": "Abhay",
+    "lastName": "Kumar",
+    "password": "$2a$08$oWrLbKANVO7zCN3ZfloM.eMhocqKNTS5RYC/AMNWYcx8PTWa4S2iS",
+    "paymentMethod": "Credit Card",
+    "address": "Pune",
+    "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzo_Cp2p0_E4l-yHyPz8bCPUguGZOWCEeKRnqcDhj6Q&s"
+  },
+  {
+    "id": "aff13684-8885-42bf-993d-b43d6b14f39f",
+    "username": "one",
+    "firstName": "one",
+    "lastName": "one",
+    "password": "$2a$08$Fkno.kf7pMRfRnuB8i/gtert2ii7/4VZzFNYxQ4nxipi166mWg21C",
+    "paymentMethod": "PayPal",
+    "address": "one address",
+    "profilePicture": "https://cdn.pixabay.com/photo/2017/02/23/13/05/avatar-2092113_1280.png"
+  }
+]
